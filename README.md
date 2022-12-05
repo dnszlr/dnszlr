@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dnszlr
+- 👋 Hi, I’m Dennis
 - 👀 I’m interested in Microservices & SAT-Solving
 - 🌱 I’m currently learning SAT-Solving
 - 📫 How to reach me dennis.zeller1993@gmail.com
