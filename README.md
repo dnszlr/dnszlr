@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Dennis
+- :bookmark_tabs: I study computer science at the Karlsruhe University of Applied Sciences
 - 👀 I’m interested in Microservices & SAT-Solving
 - 🌱 I’m currently learning SAT-Solving
 - 📫 How to reach me dennis.zeller1993@gmail.com
