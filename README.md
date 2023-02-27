@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dennis
 - :bookmark_tabs: I study computer science at the Karlsruhe University of Applied Sciences
 - 👀 I’m interested in Microservices & currently C++.
-- 🌱 I’m currently learning wxwidgets
+- 🌱 I’m currently learning wxWidgets
 - 📫 How to reach me dennis.zeller1993@gmail.com
 
 <!---
