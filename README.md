@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dennis
-- :bookmark_tabs: I study computer science at the Karlsruhe University of Applied Sciences
-- 👀 I’m interested in Microservices & currently Nest.js.
-- 🌱 I’m currently learning Typescript
+- :bookmark_tabs: I'm a Software Development Engineer from Germany
+- 👀 I’m interested in Software Architecture and Design Patterns
+- 🌱 I’m currently improving my C++ Skills
 - 📫 How to reach me dennis.zeller1993@gmail.com
 
 <!---
